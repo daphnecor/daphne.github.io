@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my personal page. My name is Daphne, a bachelor student specialised in the area of Computational Neuroscience.
-
-## Under construction
+I am a (Computational) Neuroscience student at Erasmus University College. The focus of my bachelor capstone is on the duration of transients in random recurrent neural networks. 
