@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ADD DOWNLOAD CV BUTTON
-<button a="resume.pdf">click me</button>
+<button href="resume.pdf">click me</button>
