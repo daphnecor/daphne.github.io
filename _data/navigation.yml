@@ -4,10 +4,10 @@ main:
     url: /notes/
 
   - title: "Research"
-    url: /about_me/    
+    url: /research/    
 
   - title: "CV"
-    url: /teaching/    
+    url: /cv/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
