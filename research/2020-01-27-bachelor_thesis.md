@@ -1,7 +1,7 @@
 ---
 title: 'Bachelor thesis'
 date: 2020-01-27
-permalink: /posts/2020/01/Bachelor-thesis/
+permalink: /research/2020/01/Bachelor-thesis/
 tags:
   - neurodynamics
 ---
