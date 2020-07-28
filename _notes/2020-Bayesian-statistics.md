@@ -1,9 +1,9 @@
 ---
-title: 'Old medium posts'
-date: 2020-08-14
-permalink: /notes/2020/01/ai_notes/
-tags:
-  - ai
+title: "Bayesian statistics"
+collection: notes
+permalink: /notes/2020-Bayesian-statistics
+date: 2020-07-28
+location: "Rotterdam, The Netherlands"
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
