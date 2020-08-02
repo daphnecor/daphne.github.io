@@ -4,11 +4,7 @@ main:
     url: /notes/
 
   - title: "Research"
-    url: /research/    
-    
-       
-    # Insert updated cv link here 
-    # https://drive.google.com/uc?id=
+    url: /research/
 
   - title: "Resume"
     url: https://drive.google.com/uc?id=1UQCXcHYemAR1OaGAGm0DIFu9aZP_kqiQ
