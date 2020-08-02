@@ -1,7 +1,7 @@
 ---
 title: "Bayesian statistics"
 collection: notes
-permalink: /notes/2020-Bayesian-statistics
+permalink: /notes/2020-07-28-bayesian-statistics
 date: 2020-07-28
 location: "Rotterdam, The Netherlands"
 ---
